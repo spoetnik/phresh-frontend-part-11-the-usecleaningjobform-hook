@@ -1,0 +1,40 @@
+{
+  "name": "phresh-frontend-part-11-the-usecleaningjobform-hook",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@elastic/datemath": "5.0.3",
+    "@elastic/eui": "28.0.0",
+    "@reduxjs/toolkit": "1.4.0",
+    "axios": "0.19.2",
+    "framer-motion": "2.4.2",
+    "history": "5.0.0",
+    "moment": "2.27.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-helmet": "6.1.0",
+    "react-redux": "7.2.1",
+    "react-router-dom": "6.0.0-beta.0",
+    "react-scripts": "3.0.1",
+    "redux": "4.0.5",
+    "redux-thunk": "2.3.0",
+    "styled-components": "5.1.1"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

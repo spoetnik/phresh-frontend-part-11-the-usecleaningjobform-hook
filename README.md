@@ -1,2 +1,3 @@
-# phresh-frontend-part-11-the-usecleaningjobform-hook
-Created with CodeSandbox
+# Phresh Frontend
+
+This repo contains the React Application used to host the frontend for phreshcleaners.com.
